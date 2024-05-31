@@ -96,4 +96,4 @@ Utilize os prompts dentro do link do `Github` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Adriano Santos](https://github.com/Adriano1976)
