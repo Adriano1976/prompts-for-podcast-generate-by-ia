@@ -81,6 +81,11 @@ Utilize os prompts dentro do link do `Github` fornecido na parte de `Materiais` 
     </a>
     &nbsp;|&nbsp;
     <a 
+        href="https://www.kaggle.com/adrianosantosdev">
+        Kaggle
+    </a>
+    &nbsp;|&nbsp;
+    <a 
         href="https://www.linkedin.com/in/adrianosantos-dev/">
         LinkedIn
     </a>
