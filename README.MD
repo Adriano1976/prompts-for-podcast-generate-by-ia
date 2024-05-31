@@ -71,7 +71,7 @@ Utilize os prompts dentro do link do `Github` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
-      src="./assets/nerd.png"
+      src="https://github.com/Adriano1976/prompts-for-article-generate-by-ia/blob/c1b19aab283efc92e1761fc580b17c43a99a2c15/assets/nerd.png"
     />
     <p>&nbsp&nbsp&nbspAdriano Santos<br>
     &nbsp&nbsp&nbsp
