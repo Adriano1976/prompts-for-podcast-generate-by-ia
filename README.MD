@@ -17,11 +17,10 @@
     alt="🔴 LIVE CODE">
 </a>
 </p>
-    [Soundcloud](https://on.soundcloud.com/i3mwtWyJL18sGLJ69)
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/podcast_editado_capcup.MP3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
