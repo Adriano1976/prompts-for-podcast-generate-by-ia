@@ -17,7 +17,7 @@
     alt="🔴 LIVE CODE">
 </a>
 <p align="center">
-    https://on.soundcloud.com/i3mwtWyJL18sGLJ69
+    [SoundCloud](https://on.soundcloud.com/i3mwtWyJL18sGLJ69)
 </p>
 
 <div align="center">
