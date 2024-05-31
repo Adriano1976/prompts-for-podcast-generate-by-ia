@@ -17,11 +17,11 @@
     alt="🔴 LIVE CODE">
 </a>
 <p align="center">
-    [SoundCloud](https://on.soundcloud.com/i3mwtWyJL18sGLJ69)
+    https://on.soundcloud.com/i3mwtWyJL18sGLJ69
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado_capcup.MP3" controls title="Podcast editado"></audio>
+    <audio src="./output/podcast_editado_capcup.MP3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
@@ -36,23 +36,25 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Ideogram](https://ideogram.ai/t/explore)
+- [Ttsmaker](https://ttsmaker.com/br)
 - [Capcut](https://www.capcut.com/pt-br/)
+- [SoundCloud](https://on.soundcloud.com/i3mwtWyJL18sGLJ69)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
+- Audio gerado pela ttsmaker
 - Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
+- SoundCloud para hospedar o Podcast
 
 ## 📚 Materiais
 
 - [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
+- [Github](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
+- [Hospedar o aúdio](https://soundcloud.com/discover)
 
 ## 🛠️ Instruções de execução
 
