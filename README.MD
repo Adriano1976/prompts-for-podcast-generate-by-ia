@@ -71,7 +71,7 @@ Utilize os prompts dentro do link do `Github` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
-      src="src="./assets/nerd.png""
+      src="./assets/nerd.png"
     />
     <p>&nbsp&nbsp&nbspAdriano Santos<br>
     &nbsp&nbsp&nbsp
